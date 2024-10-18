@@ -1,5 +1,5 @@
 # 💫 About Me:
-"Backend developer with expertise in Node.js, Go, and cloud technologies such as AWS and Azure. I specialize in building scalable web applications, implementing machine learning models, and creating efficient terminal-based utilities. Passionate about problem-solving, performance optimization, and contributing to open-source projects. Always eager to learn and explore new technologies to deliver impactful solutions."<br>
+developer with expertise in Node.js, Go, and cloud technologies such as AWS and Azure. I specialize in building scalable web applications, implementing machine learning models, and creating efficient terminal-based utilities. Passionate about problem-solving, performance optimization, and contributing to open-source projects. Always eager to learn and explore new technologies to deliver impactful solutions.<br>
 
 
 ## 🌐 Socials:
